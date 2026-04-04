@@ -1,0 +1,12 @@
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Domain/bin/Debug/net10.0/UsersApp.Domain.deps.json
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Domain/bin/Debug/net10.0/UsersApp.Domain.dll
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Domain/bin/Debug/net10.0/UsersApp.Domain.pdb
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Domain/obj/Debug/net10.0/UsersApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Domain/obj/Debug/net10.0/UsersApp.Domain.AssemblyInfoInputs.cache
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Domain/obj/Debug/net10.0/UsersApp.Domain.AssemblyInfo.cs
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Domain/obj/Debug/net10.0/UsersApp.Domain.csproj.CoreCompileInputs.cache
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Domain/obj/Debug/net10.0/UsersApp.Domain.sourcelink.json
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Domain/obj/Debug/net10.0/UsersApp.Domain.dll
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Domain/obj/Debug/net10.0/refint/UsersApp.Domain.dll
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Domain/obj/Debug/net10.0/UsersApp.Domain.pdb
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Domain/obj/Debug/net10.0/ref/UsersApp.Domain.dll

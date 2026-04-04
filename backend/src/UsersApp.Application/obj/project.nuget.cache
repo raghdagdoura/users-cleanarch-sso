@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QVgzTsubDDU=",
+  "dgSpecHash": "6VTkj17+uX4=",
   "success": true,
   "projectFilePath": "/workspaces/users-cleanarch-sso/backend/src/UsersApp.Application/UsersApp.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.5/microsoft.extensions.dependencyinjection.abstractions.10.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

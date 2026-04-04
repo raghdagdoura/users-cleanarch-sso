@@ -1,0 +1,16 @@
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Application/bin/Debug/net10.0/UsersApp.Application.deps.json
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Application/bin/Debug/net10.0/UsersApp.Application.dll
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Application/bin/Debug/net10.0/UsersApp.Application.pdb
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Application/bin/Debug/net10.0/UsersApp.Domain.dll
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Application/bin/Debug/net10.0/UsersApp.Domain.pdb
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Application/obj/Debug/net10.0/UsersApp.Application.csproj.AssemblyReference.cache
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Application/obj/Debug/net10.0/UsersApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Application/obj/Debug/net10.0/UsersApp.Application.AssemblyInfoInputs.cache
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Application/obj/Debug/net10.0/UsersApp.Application.AssemblyInfo.cs
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Application/obj/Debug/net10.0/UsersApp.Application.csproj.CoreCompileInputs.cache
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Application/obj/Debug/net10.0/UsersApp.Application.sourcelink.json
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Application/obj/Debug/net10.0/UsersApp.7A343615.Up2Date
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Application/obj/Debug/net10.0/UsersApp.Application.dll
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Application/obj/Debug/net10.0/refint/UsersApp.Application.dll
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Application/obj/Debug/net10.0/UsersApp.Application.pdb
+/workspaces/users-cleanarch-sso/backend/src/UsersApp.Application/obj/Debug/net10.0/ref/UsersApp.Application.dll

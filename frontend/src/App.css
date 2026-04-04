@@ -1,0 +1,53 @@
+body {
+margin: 0;
+font-family: Arial, sans-serif;
+background: #f3f6fb;
+}
+
+.container {
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.card {
+background: white;
+padding: 40px;
+border-radius: 12px;
+width: 350px;
+text-align: center;
+box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.ms-button {
+margin-top: 20px;
+padding: 12px;
+width: 100%;
+background: #2f2f2f;
+color: white;
+border: none;
+border-radius: 8px;
+cursor: pointer;
+font-size: 16px;
+}
+
+.ms-button:hover {
+background: #1f1f1f;
+}
+
+.logout-button {
+margin-top: 20px;
+padding: 12px;
+width: 100%;
+background: #d9534f;
+color: white;
+border: none;
+border-radius: 8px;
+cursor: pointer;
+font-size: 16px;
+}
+
+.logout-button:hover {
+background: #c9302c;
+}
